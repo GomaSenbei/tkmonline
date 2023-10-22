@@ -1,1 +1,1 @@
-WSURL = 'ws://localhost:5000';
+WSURL = 'ws://goma-catan.onrender.com';
